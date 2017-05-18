@@ -60,7 +60,7 @@ a:visited {
     color:black;
 }
 
-img { 
+.hero { 
     width: 100%;
     max-height: 600px;
     padding-top: 16px;
@@ -137,7 +137,7 @@ a:hover {
     }
 
 /* -------- Column Layout -------*/
-.one_third {    
+.one_third {
     width:300px;
     float:left;
     margin-left:20px;
